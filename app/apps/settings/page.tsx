@@ -42,7 +42,7 @@ const PAPER_PROPS: PaperProps = {
 };
 
 const BIO =
-  'A dynamic software engineering graduate from Nairobi, Kenya with 5+ years of experience. Passionate about turning creative sparks into seamless applications through technological experimentation. Experienced in crafting intuitive solutions and translating innovative concepts into user-friendly applications. Thrives on transforming the way we experience technology, one line of code at a time.\n' +
+  'A dynamic software engineering graduate from Accra, Ghana with 5+ years of experience. Passionate about turning creative sparks into seamless applications through technological experimentation. Experienced in crafting intuitive solutions and translating innovative concepts into user-friendly applications. Thrives on transforming the way we experience technology, one line of code at a time.\n' +
   '\n' +
   'Enthusiastic pioneer, constantly seeking the next big thing in tech. Eager to apply my passion and skills at Alternate Limited to bring ideas to life.';
 
@@ -51,9 +51,9 @@ function Settings() {
 
   const accountForm = useForm({
     initialValues: {
-      username: 'kelvinkiprop',
+      username: 'Newjoe',
       biograghy:
-        'A dynamic software engineering graduate from Nairobi, Kenya with 5+ years of experience. Passionate about turning creative sparks into seamless applications through technological experimentation. Experienced in crafting intuitive solutions and translating innovative concepts into user-friendly applications. Thrives on transforming the way we experience technology, one line of code at a time.\n' +
+        'A dynamic software engineering graduate from Accra, Ghana with 5+ years of experience. Passionate about turning creative sparks into seamless applications through technological experimentation. Experienced in crafting intuitive solutions and translating innovative concepts into user-friendly applications. Thrives on transforming the way we experience technology, one line of code at a time.\n' +
         '\n' +
         'Enthusiastic pioneer, constantly seeking the next big thing in tech. Eager to apply my passion and skills at Alternate Limited to bring ideas to life.',
     },
@@ -61,9 +61,9 @@ function Settings() {
 
   const accountInfoForm = useForm({
     initialValues: {
-      firstname: 'kelvin',
-      lastname: 'kiprop',
-      email: 'kelvin.kiprop96@gmail.com',
+      firstname: 'Joseph',
+      lastname: 'Nketiah',
+      email: 'nketiahjoseph1@gmail.com',
       address: '',
       apartment: '',
       city: '',
@@ -110,7 +110,7 @@ function Settings() {
                   <Grid.Col span={{ base: 12, md: 6, lg: 3, xl: 3 }}>
                     <Stack align="center">
                       <Image
-                        src="https://res.cloudinary.com/ddh7hfzso/image/upload/v1700303804/me/ovqjhhs79u3g2fwbl2dd.jpg"
+                        src="https://res.cloudinary.com/dn090urrj/image/upload/v1716457685/sw9qekxg1qjln9uskxld.jpg"
                         h={128}
                         w={128}
                         radius="50%"

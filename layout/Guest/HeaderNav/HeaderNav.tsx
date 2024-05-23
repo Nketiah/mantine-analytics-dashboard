@@ -26,7 +26,7 @@ const MOCK_DATA = [
     label: 'components',
   },
   {
-    link: 'mailto:kelvin.kiprop96@gmail.com',
+    link: 'mailto:nketiahjoseph1@gmail.com',
     label: 'support',
   },
   {

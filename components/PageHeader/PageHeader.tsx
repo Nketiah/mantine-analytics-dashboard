@@ -67,7 +67,7 @@ const PageHeader = (props: PageHeaderProps) => {
           >
             <Stack gap={4}>
               <Title order={3}>{title}</Title>
-              <Text>Welcome back, Kelvin!</Text>
+              <Text>Welcome back, Nketiah!</Text>
             </Stack>
             <Flex align="center" gap="sm">
               <ActionIcon variant="subtle">
